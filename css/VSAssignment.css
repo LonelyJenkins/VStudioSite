@@ -1,0 +1,12 @@
+﻿html
+{
+    background-color: lightblue;
+}
+
+#pink-text {
+    text-align: center;
+    color: deeppink;
+    border-style: dotted;
+    border-color: red;
+}
+
